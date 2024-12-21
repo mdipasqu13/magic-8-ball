@@ -2,7 +2,7 @@ import random
 
 name = ""
 
-question = "Will I get a new coding job before April?"
+question = ""
 
 answer = ""
 
